@@ -51,7 +51,7 @@ const PortfolioSwiperMobile = () => {
                 <div className="row">
                   <div className="col-xxl-12">
                     <div className="portfolio__hero">
-                      <h1 className="title shape-circle">Frontend</h1>
+                      <h1 className="title shape-circle">sFrontend</h1>
                       <h2 className="title text-stroke">React</h2>
                       <h2 className="title">developer</h2>
                       <div className="btn-wrapper">
