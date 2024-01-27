@@ -31854,16 +31854,17 @@ body {
   }
 }
 
-.w-500 {
-  @media(max-width: 500px) {
-    width: 160px;
-    height: 38px;
-  }
-}
 
 .img-500 {
   @media(max-width: 500px) {
     width: 40px;
     height: 40px;
+  }
+}
+
+.w-500 {
+  @media(max-width: 500px) {
+    width: 160px;
+    height: 38px;
   }
 }
