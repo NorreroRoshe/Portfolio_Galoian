@@ -131,7 +131,7 @@ const PortfolioSwiperMobile = () => {
                           <a href="https://www.instagram.com/chucknorrikk?igsh=MTlhdnkzNmRnOGNnYg==" target="_blank">
                             <Image
                               priority
-                              className='img-501'
+                              className='img-501 beru'
                               width={117}
                               height={117}
                               src={Brand1}
@@ -142,7 +142,7 @@ const PortfolioSwiperMobile = () => {
                           <a href="https://api.whatsapp.com/send?phone=79999902020" target="_blank">
                             <Image
                               priority
-                              className='img-501'
+                              className='img-501 beru'
                               width={97}
                               height={97}
                               src={Brand2}
@@ -153,7 +153,7 @@ const PortfolioSwiperMobile = () => {
                           <a href="https://t.me/Norikyujka" target="_blank">
                             <Image
                               priority
-                              className='img-501'
+                              className='img-501 beru'
                               width={97}
                               height={97}
                               src={Brand3}

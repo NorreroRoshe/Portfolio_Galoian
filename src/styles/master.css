@@ -31868,3 +31868,10 @@ body {
     height: 38px;
   }
 }
+
+.beru {
+  @media(max-width: 501px) {
+    width: 40px;
+    height: 40px;
+  }
+}
