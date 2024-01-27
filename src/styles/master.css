@@ -147,7 +147,12 @@
     padding-bottom: 60px;
   }
 }
-
+.w-500 {
+  @media(max-width: 500px) {
+    width: 160px;
+    height: 38px;
+  }
+}
 .pb-120 {
   padding-bottom: 120px;
 }
@@ -31859,19 +31864,6 @@ body {
   @media(max-width: 501px) {
     width: 40px;
     height: 40px;
-  }
-}
-.logo-dark .w-500 {
-  @media(max-width: 500px) {
-    width: 160px;
-    height: 38px;
-  }
-}
-
-.logo-light .w-500 {
-  @media(max-width: 500px) {
-    width: 160px;
-    height: 38px;
   }
 }
 
