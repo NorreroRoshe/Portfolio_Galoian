@@ -120,7 +120,7 @@ const PortfolioSwiperMobile = () => {
                         <div className="brand-logo">
                           <a target="_blank" href="https://hh.ru/applicant/resumes/view?resume=74052d2bff0b6e9c4d0039ed1f6745516c6a33">
                             <Image
-                              className='img-500'
+                              className='img-501'
                               priority
                               width={97}
                               height={97}
@@ -132,7 +132,7 @@ const PortfolioSwiperMobile = () => {
                         <div className="brand-logo">
                           <a href="https://www.instagram.com/chucknorrikk?igsh=MTlhdnkzNmRnOGNnYg==" target="_blank">
                             <Image
-                              className='img-500'
+                              className='img-501'
                               priority
                               width={117}
                               height={117}
@@ -144,7 +144,7 @@ const PortfolioSwiperMobile = () => {
                         <div className="brand-logo">
                           <a href="https://api.whatsapp.com/send?phone=79999902020" target="_blank">
                             <Image
-                              className='img-500'
+                              className='img-501'
                               priority
                               width={97}
                               height={97}
@@ -156,7 +156,7 @@ const PortfolioSwiperMobile = () => {
                         <div className="brand-logo">
                           <a href="https://t.me/Norikyujka" target="_blank">
                             <Image
-                              className='img-500'
+                              className='img-501'
                               priority
                               width={97}
                               height={97}
@@ -168,7 +168,7 @@ const PortfolioSwiperMobile = () => {
                         <div className="brand-logo">
                           <a target="_blank" href="https://github.com/NorreroRoshe">
                             <Image
-                              className='img-500'
+                              className='img-501'
                               priority
                               width={97}
                               height={97}
