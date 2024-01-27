@@ -120,6 +120,7 @@ const PortfolioSwiperMobile = () => {
                           <a target="_blank" href="https://hh.ru/applicant/resumes/view?resume=74052d2bff0b6e9c4d0039ed1f6745516c6a33">
                             <Image
                               priority
+                              className='img-500'
                               width={97}
                               height={97}
                               src={Brand4}
@@ -131,6 +132,7 @@ const PortfolioSwiperMobile = () => {
                           <a href="https://www.instagram.com/chucknorrikk?igsh=MTlhdnkzNmRnOGNnYg==" target="_blank">
                             <Image
                               priority
+                              className='img-500'
                               width={117}
                               height={117}
                               src={Brand1}
@@ -142,6 +144,7 @@ const PortfolioSwiperMobile = () => {
                           <a href="https://api.whatsapp.com/send?phone=79999902020" target="_blank">
                             <Image
                               priority
+                              className='img-500'
                               width={97}
                               height={97}
                               src={Brand2}
@@ -153,6 +156,7 @@ const PortfolioSwiperMobile = () => {
                           <a href="https://t.me/Norikyujka" target="_blank">
                             <Image
                               priority
+                              className='img-500'
                               width={97}
                               height={97}
                               src={Brand3}
@@ -164,6 +168,7 @@ const PortfolioSwiperMobile = () => {
                           <a target="_blank" href="https://github.com/NorreroRoshe">
                             <Image
                               priority
+                              className='img-500'
                               width={97}
                               height={97}
                               src={Portfolio16}
