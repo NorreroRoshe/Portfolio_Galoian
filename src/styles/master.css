@@ -21355,6 +21355,11 @@ img {
     padding: 20px 15px;
   }
 }
+@media only screen and (max-width: 500px) {
+  .header__inner-5 {
+    padding: 10px 15px;
+  }
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header__inner-5 {
     padding: 25px 15px 22px;
@@ -31846,5 +31851,12 @@ body {
   display: none;
   @media(max-width: 1200px) {
     display: block;
+  }
+}
+
+.w-500 {
+  @media(max-width: 500px) {
+    width: 160px;
+    height: 38px;
   }
 }

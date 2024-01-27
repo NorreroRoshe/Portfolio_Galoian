@@ -49,7 +49,7 @@ const DigitalAgencyHeader = () => {
                 priority
                 width={153}
                 height={100}
-                className="logo-primary"
+                className="logo-primary w-500"
                 src={LogoWhite}
                 style={{transform: 'rotate(-90deg)'}}
                 alt="Site Logo"

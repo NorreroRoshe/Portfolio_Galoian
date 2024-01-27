@@ -70,7 +70,7 @@ const PersonalPortfolioHeaderDetails = () => {
                 priority
                 width={153}
                 height={100}
-                className="logo-primary hassvl"
+                className="logo-primary hassvl w-500"
                 src={LogoBlack}
                 // style={{transform: 'rotate(-90deg)'}}
                 alt="Site Logo"
