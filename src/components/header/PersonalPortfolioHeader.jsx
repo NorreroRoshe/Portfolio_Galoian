@@ -73,7 +73,6 @@ const PersonalPortfolioHeader = () => {
                 // height={45}
                 src={LogoBlack}
                 alt="Site Logo"
-                className='w-500'
               />
             </Link>
             <Link href="/personal-portfolio" className="logo-light">
@@ -85,7 +84,6 @@ const PersonalPortfolioHeader = () => {
                 // height={33}
                 src={LogoWhite2}
                 alt="Site Logo"
-                className='w-500'
               />
             </Link>
           </div>
